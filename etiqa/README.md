@@ -1,8 +1,14 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## How To Start
+### git clone https://github.com/asyrafibr/Etiqa-assessment.git
+### cd etiqa
+### npm install
+### npm start
 
-## Available Scripts
+
+##### Available Scripts
 
 In the project directory, you can run:
 
